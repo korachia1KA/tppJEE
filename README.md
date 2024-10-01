@@ -50,8 +50,10 @@ Insérer des données d'exemple :
 
 Ajouter des entrées pour chaque développeur et le nombre de scripts réalisés.
 Exercice 2 : Recherche d'informations
-Écrire des requêtes SQL pour trouver le développeur avec le maximum de scripts et afficher la liste des développeurs triée par le nombre de scripts.
+Écrire des requêtes SQL pour trouver le développeur avec le maximum de scripts et afficher
+la liste des développeurs triée par le nombre de scripts.
 Exercice 3 : Requêtes libres
 Utiliser des métadonnées pour afficher des informations sur les résultats d'une requête, comme le nombre de colonnes et leur type.
 Conclusion
-Ce TP vous permet d'acquérir une compréhension de base de l'utilisation de JDBC pour interagir avec une base de données MySQL en Java. Testez chaque fonctionnalité après l'implémentation.
+Ce TP vous permet d'acquérir une compréhension de base de l'utilisation de JDBC pour interagir avec une base de 
+données MySQL en Java. Testez chaque fonctionnalité après l'implémentation.
