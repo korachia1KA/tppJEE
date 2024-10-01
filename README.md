@@ -42,6 +42,10 @@ Exercice 1 : Scripts des développeurs
 Création de la table DevData :
 
 Définir la structure de la table pour enregistrer les informations sur les développeurs.
+pour ça j'ai crée une interface developpeurdao qui contient des méthode abstract Qui sera mis en œuvre
+après l'implementation de cet interface par la classe developpeurdaoimpl Qui contiendra à son tour toutes
+les méthodes dont nous aurons besoin pour créer la table, la remplir et récupérer les informations de la
+base de données. 
 Insérer des données d'exemple :
 
 Ajouter des entrées pour chaque développeur et le nombre de scripts réalisés.
