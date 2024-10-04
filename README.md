@@ -57,3 +57,7 @@ Utiliser des métadonnées pour afficher des informations sur les résultats d'u
 Conclusion
 Ce TP vous permet d'acquérir une compréhension de base de l'utilisation de JDBC pour interagir avec une base de 
 données MySQL en Java. Testez chaque fonctionnalité après l'implémentation.
+
+
+link du premier védio: https://github.com/korachia1KA/tppJEE/issues/1#issue-2567264368
+link de ladeuxiéme védio: https://github.com/korachia1KA/tppJEE/issues/2#issue-2567311914
