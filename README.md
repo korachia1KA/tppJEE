@@ -59,6 +59,7 @@ Ce TP vous permet d'acquérir une compréhension de base de l'utilisation de JDB
 données MySQL en Java. Testez chaque fonctionnalité après l'implémentation.
 
 
-link du premier védio: [https://github.com/korachia1KA/tppJEE/issues/1#issue-2567264368](https://github.com/user-attachments/assets/73305adb-8b84-49a6-bf4e-f5cd20bc87de
+link du premier védio:(https://github.com/user-attachments/assets/73305adb-8b84-49a6-bf4e-f5cd20bc87de
 )
-link de ladeuxiéme védio: https://github.com/korachia1KA/tppJEE/issues/2#issue-2567311914
+link de ladeuxiéme védio: (https://github.com/user-attachments/assets/ad03f587-49f0-4675-b17a-4d17d4535130
+)
